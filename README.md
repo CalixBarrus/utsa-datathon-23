@@ -1,2 +1,5 @@
 # utsa-datathon-23
-Repo for UTSA Datathon 2023
+read the `report.md` file for more info.
+
+here is a video demo:
+https://github.com/CalixBarrus/utsa-datathon-23/raw/main/demo.mov
